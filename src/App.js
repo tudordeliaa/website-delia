@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Delia and Team
+          Learn React with Delia
         </a>
       </header>
     </div>
